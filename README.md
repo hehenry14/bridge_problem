@@ -4,12 +4,15 @@
 
 This is a short python simulation to solve a math problem.
 
-Assume we have a river and 8 nodes accorss the river and they are connected via bridges, nodes and bridges look like this
-  2-3
- /| |\
-1-4-5-6
- \| |/
-  7-8
+Assume we have a river and 8 nodes accorss the river and they are connected via bridges, nodes and bridges look like this:
+
+```txt
+   2-3  
+  /| |\  
+ 1-4-5-6  
+  \| |/  
+   7-8  
+```
   
 There are 13 bridges connecting those 8 nodes. To successfully cross the bridge you have to reach node 6 from node 1.
 
